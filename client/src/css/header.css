@@ -1,0 +1,17 @@
+.head {
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    align-items: center;
+    height: 50px;
+}
+.head-stream {
+    color: white;
+    font-weight: bolder;
+    margin: 10px;
+}
+.head-all {
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}

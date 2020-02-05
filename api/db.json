@@ -1,0 +1,22 @@
+{
+  "streams": [
+    {
+      "title": "First stream",
+      "description": "Number one",
+      "userId": "102892203128487172243",
+      "id": 2
+    },
+    {
+      "title": "Second stream",
+      "description": "Done for checking CSS",
+      "userId": "102892203128487172243",
+      "id": 3
+    },
+    {
+      "title": "Third",
+      "description": "To check the borders properly",
+      "userId": "102892203128487172243",
+      "id": 4
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "streams": [
+    {
+      "title": "JP",
+      "description": "ZAP Spyker's first stream",
+      "userId": "102892203128487172243",
+      "id": 16
+    },
+    {
+      "title": "JP King",
+      "description": "ZAP Viper second stream",
+      "userId": "102892203128487172243",
+      "id": 17
+    },
+    {
+      "title": "Programatic navigation",
+      "description": "Navigates back to all streams page",
+      "userId": "102892203128487172243",
+      "id": 18
+    },
+    {
+      "title": "errksdjew",
+      "description": "erwpasoller",
+      "userId": "102892203128487172243",
+      "id": 19
+    },
+    {
+      "title": "Hello world",
+      "description": "The experiment",
+      "userId": "102892203128487172243",
+      "id": 20
+    },
+    {
+      "title": "hi there",
+      "description": "m new here but not anymewqsahbnemwdasore!!",
+      "userId": "102892203128487172243",
+      "id": 21
+    }
+  ]
+}

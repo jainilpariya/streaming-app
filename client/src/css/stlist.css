@@ -1,0 +1,55 @@
+.slist {
+    display: flex;
+    background-color: turquoise;
+    justify-content: space-between;
+    flex-direction: column;
+    height: 100%;
+}
+
+.slist-head {
+    text-align: center; 
+    border-style: solid;
+    border-top: 10px;
+    border-color: black;
+}
+
+
+.slist-item {
+    flex-direction: column;
+}
+
+.slist-create {
+    text-align: center;
+    margin: 10px;
+}
+
+.slist-row {
+    display: flex;
+    justify-content: space-between;
+    border-style: solid;
+    border-top: 10px;
+    border-color: black;
+}
+
+.slist-content {
+    display: flex;
+    flex-direction: column;
+    margin: 5px;
+}
+
+.slist-title {
+    font-weight: bolder;
+    font-size: large;
+}
+
+.slist-desc {
+    font-style: italic;
+    font-size: medium;
+}
+
+.slist-admin {
+    margin: 5px;
+    display: flex;
+    align-items: center;
+}
+

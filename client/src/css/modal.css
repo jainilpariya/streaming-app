@@ -1,0 +1,23 @@
+.dimmer {
+    background-color: chartreuse;
+    z-index: 1000;
+    height: 100px;
+    width: 500px;
+    position: fixed;
+}
+
+.portactive {
+
+}
+
+.header {
+
+}
+
+.content {
+
+}
+
+.actions {
+
+}
